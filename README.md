@@ -1,5 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Brianna's Site
+![Website Screenshot](img/Screenshot.png)
 
 This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
